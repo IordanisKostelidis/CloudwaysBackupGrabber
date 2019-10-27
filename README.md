@@ -20,3 +20,6 @@ Get the latest backup from your application hosted on Cloudways
 * Now you can run the script
     * From local path `./cloudwaysBackupGrabber.sh`
     * From bin path `cloudwaysBackupGrabber`
+    
+# License
+GNU GENERAL PUBLIC LICENSE - GPL v3
